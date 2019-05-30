@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo App</string>
+    <string name="tab_text_1">Add</string>
+    <string name="tab_text_2">List</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_todo">Enter todo</string>
+    <string name="save_todo">Save todo</string>
+</resources>
